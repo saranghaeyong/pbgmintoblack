@@ -1,0 +1,6 @@
+{
+  "name": "SARANG RN PLAYLIST BGM",
+  "description": "Streetwear kinetic typography looping motion graphic featuring SARANG RN, PLAYLIST, and BGM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
